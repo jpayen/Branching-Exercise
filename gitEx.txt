@@ -1,0 +1,7 @@
+Part One
+
+1) git checkout -b
+2) fast forward can merge easily while recursive merge happens when a conflict merge occures.
+3) git checkout
+4) git branch -d
+5) When the file merging has different commits with the master file
